@@ -1,0 +1,552 @@
+Uri: https://пати-проектор.рф/party_cvetomuzyka.php
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\party_cvetomuzyka.php.html
+Content Type: text/html
+
+Uri: https://пати-проектор.рф/css.css
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\css.css
+Content Type: text/css
+
+Uri: https://пати-проектор.рф/favicon.ico
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://пати-проектор.рф/buyme/style.css
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\buyme\style.css
+Content Type: text/css
+
+Uri: https://пати-проектор.рф/
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\index.htm
+Content Type: text/html
+
+Uri: https://пати-проектор.рф/party_strobo.php
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\party_strobo.php.html
+Content Type: text/html
+
+Uri: https://пати-проектор.рф/party_gobo.php
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\party_gobo.php.html
+Content Type: text/html
+
+Uri: https://пати-проектор.рф/party_laser.php
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\party_laser.php.html
+Content Type: text/html
+
+Uri: https://пати-проектор.рф/party_shipping.php
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\party_shipping.php.html
+Content Type: text/html
+
+Uri: https://пати-проектор.рф/buyme/js/jquery.js
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\buyme\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://пати-проектор.рф/buyme/js/bubble.js
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\buyme\js\bubble.js
+Content Type: application/javascript
+
+Uri: https://пати-проектор.рф/party-proektor-logo.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\party-proektor-logo.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/img/generatorbubble.gif
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img\generatorbubble.gif
+Content Type: image/gif
+
+Uri: https://пати-проектор.рф/top_logo5.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\top_logo5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/embed/2aW-GuFkLFw?rel=0
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\embed\2aW-GuFkLFw.html
+Content Type: text/html
+
+Uri: https://пати-проектор.рф/img7_top.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img7_top.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/77777_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\77777_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/gobo_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\gobo_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/777_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\777_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/77755_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\77755_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/55777_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\55777_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55555_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55555_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5555555_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5555555_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img555555555_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img555555555_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img577_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img577_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57777_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57777_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5777777_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5777777_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img577777777_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img577777777_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57777777777_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57777777777_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55577_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55577_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55577777_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55577777_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5557777777_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5557777777_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image5_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image5_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image555_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image555_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image55555_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image55555_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image5555555_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image5555555_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image555555555_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image555555555_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/top_logo_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\top_logo_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/party.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\party.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/shrift.ttf
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\shrift.ttf
+Content Type: font/ttf
+
+Uri: https://пати-проектор.рф/Furore.otf
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\Furore.otf.ttf
+Content Type: font/ttf
+
+Uri: https://пати-проектор.рф/myriad-set-pro_thin.eot?
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\myriad-set-pro_thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://пати-проектор.рф/myriad-set-pro_thin.woff
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\myriad-set-pro_thin.woff
+Content Type: font/woff
+
+Uri: https://пати-проектор.рф/myriad-set-pro_thin.ttf
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\myriad-set-pro_thin.ttf
+Content Type: font/ttf
+
+Uri: https://пати-проектор.рф/myriad-set-pro_thin.eot
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\myriad-set-pro_thin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://пати-проектор.рф/777.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\777.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img7.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img7.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/77777.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\77777.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img7777777.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img7777777.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img77755.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img77755.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img775.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img775.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img77555.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img77555.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img557.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img557.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55555.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55555.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5555555.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5555555.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img555555555.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img555555555.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img577.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img577.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57777.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57777.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5777777.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5777777.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img577777777.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img577777777.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57777777777.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57777777777.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55577.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55577.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55577777.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55577777.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5557777777.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5557777777.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image5.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image5.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image555.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image555.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image55555.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image55555.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image5555555.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image5555555.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image555555555.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image555555555.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/top_logo.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\top_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/top_logo5_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\top_logo5_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img7_top_top.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img7_top_top.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/77777_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\77777_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/gobo_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\gobo_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/777_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\777_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/77755_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\77755_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/55777_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\55777_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55555_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55555_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5555555_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5555555_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img555555555_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img555555555_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img577_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img577_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57777_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57777_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5777777_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5777777_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img577777777_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img577777777_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57777777777_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57777777777_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55577_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55577_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55577777_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55577777_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5557777777_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5557777777_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image5_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image5_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image555_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image555_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image55555_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image55555_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image5555555_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image5555555_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image555555555_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image555555555_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/top_logo_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\top_logo_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/top_logo5_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\top_logo5_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img7_top_top_top.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img7_top_top_top.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/77777_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\77777_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/gobo_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\gobo_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/777_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\777_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/77755_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\77755_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/55777_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\55777_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55555_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55555_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5555555_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5555555_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img555555555_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img555555555_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img577_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img577_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57777_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57777_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5777777_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5777777_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img577777777_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img577777777_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img57777777777_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img57777777777_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55577_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55577_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img55577777_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img55577777_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/img5557777777_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\img5557777777_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image5_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image5_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image555_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image555_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image55555_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image55555_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image5555555_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image5555555_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/image555555555_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\image555555555_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/top_logo_top_top_top.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\top_logo_top_top_top.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/class.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\class.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/dostavka.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\dostavka.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/information.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\information.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/map.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\map.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/map5.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\map5.png
+Content Type: image/png
+
+Uri: https://пати-проектор.рф/7.jpg
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\7.jpg
+Content Type: image/jpeg
+
+Uri: https://пати-проектор.рф/shipping.png
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\shipping.png
+Content Type: image/png
+
+Uri: https://mc.yandex.ru/watch/83514742/1
+File Name: C:\Downloaded Web Sites\пати-проектор.рф\watch\83514742\1.gif
+Content Type: image/gif
+
